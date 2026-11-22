@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/CloudTechDevOps/kubernetes-veeraops-ecommerce-microservices-app.git
+    repoURL: https://github.com/Goutham-id06/Kubernetes-FullStack-E-Commerce-Applictaion.git
     path: frontend/googlemusic
     targetRevision: main
   destination:
